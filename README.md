@@ -5,7 +5,7 @@
 - 📫 How to reach me: Here are my social media:
         Instagram: @psmayumi
         Linkedin: https://www.linkedin.com/in/paula-m-siano/
-        Discord: Mayumi#5864;
+        Discord: Mayumi#2000;
         Make yourself at home to contact me anytime.
   
 <!---
