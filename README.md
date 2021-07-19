@@ -7,9 +7,7 @@
         Linkedin: https://www.linkedin.com/in/paula-m-siano/
         Discord: Mayumi#2000;
         Make yourself at home to contact me anytime.
-        [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayumisiano)](https://github.com/anuraghazra/github-readme-stats)
-       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayumisiano)](https://github.com/anuraghazra/github-readme-stats)
-       ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+       ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayumisiano&show_icons=true&theme=dracula)
 
 
 
