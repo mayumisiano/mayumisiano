@@ -7,6 +7,9 @@
         Linkedin: https://www.linkedin.com/in/paula-m-siano/
         Discord: Mayumi#2000;
         Make yourself at home to contact me anytime.
+        [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayumisiano)](https://github.com/anuraghazra/github-readme-stats)
+
+
   
 <!---
 mayumisiano/mayumisiano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
