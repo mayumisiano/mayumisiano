@@ -8,7 +8,7 @@
         Discord: Mayumi#2000;
         Make yourself at home to contact me anytime.
         [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayumisiano)](https://github.com/anuraghazra/github-readme-stats)
-        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayumisiano&show_icons=true)
 
 
   
