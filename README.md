@@ -6,8 +6,7 @@
         Instagram: @psmayumi
         Linkedin: https://www.linkedin.com/in/paula-m-siano/
         Discord: Mayumi#2000;
-        Make yourself at home to contact me anytime.
-        
+        Make yourself at home to contact me anytime.        
        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayumisiano&show_icons=true&theme=dracula)
        
      <a href="https://app.daily.dev/mayumisiano"><img src="https://api.daily.dev/devcards/3bb2155ffc4f48708c9df09af963c765.png? r=unh" width="400" alt="Mayumi's Dev Card"/></a>
