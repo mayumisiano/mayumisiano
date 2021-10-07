@@ -8,7 +8,7 @@
         Make yourself at home to contact me anytime.        
        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayumisiano&show_icons=true&theme=dracula)
        
-    <a href="https://app.daily.dev/mayumisiano"><img src="https://api.daily.dev/devcards/3bb2155ffc4f48708c9df09af963c765.png?r=unh" width="400" alt="Mayumi's Dev Card"/></a>
+    <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/mayumisiano/mayumisiano/blob/master/devcard.svg" width="400" alt="Paula Mayumi's Dev Card"/></a>
 
   
 <!---
