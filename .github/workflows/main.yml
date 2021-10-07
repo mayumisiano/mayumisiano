@@ -10,7 +10,7 @@ on:
 
 jobs:
   devcard:
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
     steps:
       - name: devcard
         uses: dailydotdev/action-devcard@2.0.2
