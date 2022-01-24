@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mayumisiano
-- 👀 I’m interested in projects using Python and web development with JS, HTML and CSS;
+- 👀 I’m interested in Data Science projects with Python and web development with JS, HTML and CSS;
 - 🌱 I’m currently focused on Data Science with Python.
 - 💞️ I’m looking forward to collaborating on new and innovative projects.
 - 📫 How to reach me: Here are my social media:
