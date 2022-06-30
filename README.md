@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mayumisiano
-- 👀 I’m interested in Data Science projects with Python and web development with JS, HTML and CSS;
-- 🐍 I’m currently focused on Data Science and Data Analysis with Python.
+- 👀 I’m interested in learning Python for backend applications.
+- 🐍 I’m currently focusedd on studying Data Science and Analytics.
 - 💞️ I’m looking forward to collaborating on projects.
 - 📫 How to reach me: Here are my social media:
         Instagram: @psmayumi
