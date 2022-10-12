@@ -29,6 +29,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">	
 </div>
 
+###How to reach me
+
+<div>
+<a href="https://www.freecodecamp.org/mayumi" target="_blank"><img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" target="_blank"></a>
+<a href="https://www.freecodecamp.org/mayumi" target="_blank"><img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/paulamsiano/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
 <div align="center">
 	<img src="https://github.com/mayumisiano/mayumisiano/blob/output/github-contribution-grid-snake.svg"/>
 </div>
