@@ -1,8 +1,8 @@
 ## Welcome! I'm Mayumi👋
 
-- 🎓 I’m a Microeletronics’ Technologist
-- 🌱 I’m currently learning Java Full Stack
-- 💡I enjoy studying Web development as well as data analytics
+- 🎓 I’m a Microeletronics’ Technologist.
+- 🌱 I’m currently learning Java Full Stack with SpringBoot
+- 💡I enjoy studying Web development as well as Data Analytics
 - ⚡ Random facts: Passionate for calisthenics, cats, reading and gaming.
 - 😄 Pronouns: She/hers
 
@@ -14,7 +14,7 @@
 
 ### My DevCard
 
-<a href="https://app.daily.dev/mayumisiano"><img src="https://api.daily.dev/devcards/3bb2155ffc4f48708c9df09af963c765.png?r=1ws" width="400" alt="Mayumi's Dev Card"/></a>
+<a href="https://app.daily.dev/mayumisiano"><img src="https://api.daily.dev/devcards/3bb2155ffc4f48708c9df09af963c765.png?r=1ws" width="300" alt="Mayumi's Dev Card"/></a>
 
 ### Tools and Languages
 	
@@ -33,7 +33,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">	
 </div>
 
-#### How to reach me
+#### Social media and platform studies:
 	
 <div>
 <a href="https://www.freecodecamp.org/mayumi" target="_blank"><img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" target="_blank"></a>
