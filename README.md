@@ -1,5 +1,5 @@
 ## Welcome! I'm Mayumi👋
-<hr>
+
 - 🎓 I’m a Microeletronics’ Technologist
 - 🌱 I’m currently learning Java Full Stack
 - 💡I enjoy studying Web development as well as data analytics
