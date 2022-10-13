@@ -1,11 +1,11 @@
-### Hello! I'm Mayumi👋
+## Welcome! I'm Mayumi👋
 <hr>
 - 🎓 I’m a Microeletronics’ Technologist
 - 🌱 I’m currently learning Java Full Stack
 - 💡I enjoy studying Web development as well as data analytics
 - ⚡ Random facts: Passionate for calisthenics, cats, reading and gaming.
 - 😄 Pronouns: She/hers
-
+<hr>
 <div align="center">
   <a href="https://github.com/mayumisiano">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayumisiano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
