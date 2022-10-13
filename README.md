@@ -14,7 +14,7 @@
 
 ### My DevCard
 
-<a href="https://app.daily.dev/mayumisiano"><img src="https://api.daily.dev/devcards/3bb2155ffc4f48708c9df09af963c765.png?r=liq" width="400" alt="Mayumi's Dev Card"/></a>
+<a href="https://app.daily.dev/mayumisiano"><img src="https://api.daily.dev/devcards/3bb2155ffc4f48708c9df09af963c765.png?r=liq" width="300" alt="Mayumi's Dev Card"/></a>
 
 ### Tools and Languages
 	
