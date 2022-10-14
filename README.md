@@ -1,5 +1,7 @@
 ## Welcome! I'm Mayumi👋
 
+<img src="https://i.imgur.com/lG40AXy.png" min-width="300px" max-width="300px" width="500px" align="right" alt="Computador">
+
 - 🎓 I’m a Microeletronics’ Technologist.
 - 🌱 I’m currently learning Java Full Stack with SpringBoot
 - 💡I enjoy studying Web development as well as Data Analytics
