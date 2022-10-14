@@ -38,7 +38,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.s
 #### Social media and platform studies:
 	
 <div>
-<a href="https://www.freecodecamp.org/mayumi" target="_blank"><img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" target="_blank"></a>
+<a href="https://www.duolingo.com/profile/psmayumi" target="_blank"><img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/paulamsiano/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.freecodecamp.org/mayumi" target="_blank"><img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" target="_blank"></a>
 </div>
