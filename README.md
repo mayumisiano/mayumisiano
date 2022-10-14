@@ -12,11 +12,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayumisiano&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<div align = "right">
-	<a href="https://github.com/mayumisiano">
-	<img height="400em" src = "https://user-images.githubusercontent.com/62121416/195844587-e29ffa70-050b-4957-beb5-572664dcdb7e.jpg">
-</div>
-
 ### My DevCard
 
 <a href="https://app.daily.dev/mayumisiano"><img src="https://api.daily.dev/devcards/3bb2155ffc4f48708c9df09af963c765.png?r=liq" width="300" alt="Mayumi's Dev Card"/></a>
