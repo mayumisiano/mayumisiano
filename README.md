@@ -18,7 +18,7 @@
 
 <a href="https://app.daily.dev/mayumisiano"><img src="https://api.daily.dev/devcards/3bb2155ffc4f48708c9df09af963c765.png?r=liq" width="250" alt="Mayumi's Dev Card"/></a>
 
-### Tools and Languages
+### Technologies
 	
 <div style="display: inline_block"><br>
 <img align="center" alt="Mayumi-Java" height="30" width="40"
