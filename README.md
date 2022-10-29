@@ -8,10 +8,10 @@
 - ⚡ Random facts: Passionate for calisthenics, cats, reading and gaming.
 - 😄 Pronouns: She/hers
 
-<div align="left">
-  <a href="https://github.com/mayumisiano">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mayumisiano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayumisiano&layout=compact&langs_count=7&theme=dracula"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=mayumisiano&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+
+<div align="left">  
+<img height="270em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayumisiano&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ### My DevCard
