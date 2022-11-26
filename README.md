@@ -1,7 +1,13 @@
-<h1 align="center"> Welcome! I'm Mayumi👋 </h1>
-
 <div align="center">
-<img src ="https://i.pinimg.com/originals/11/96/89/119689d2f8ae50053501afb4190e23f6.gif" width="600" height="350">
+	
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=300&size=42&duration=2200&pause=1000&color=B22D82&vCenter=true&width=650&height=80&lines=Welcome!+I'm+Mayumi+%F0%9F%91%8B%F0%9F%8F%BB;Java+Full+Stack+Developer+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+
+</div>
+	    
+<div align="center">
+	
+<img src ="https://i.pinimg.com/originals/11/96/89/119689d2f8ae50053501afb4190e23f6.gif" width="520" height="300">
+	
 </div>
 
 ---
