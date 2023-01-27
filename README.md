@@ -12,7 +12,7 @@
 
 ---
 ### 👩🏻‍💻 About Me :
-I am a Full Stack Developer from Brazil. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am a Back-end Developer from Brazil. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 🎓 I’m a Microeletronics’ Technologist.
 - 🌱 I’m currently studying Java with Springboot, besides HTML, CSS, JS and React for Web Development.
