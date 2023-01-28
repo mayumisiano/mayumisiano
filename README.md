@@ -1,13 +1,11 @@
 <div align="center">
 	
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=300&size=35&duration=2200&pause=1000&color=B22D82&vCenter=true&width=569&height=80&lines=Welcome!+I'm+Mayumi+%F0%9F%91%8B%F0%9F%8F%BB;Junior+Software+Engineer+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=300&size=35&duration=2200&pause=1000&color=eeeeee&vCenter=true&width=569&height=80&lines=Welcome!+I'm+Paula+Mayumi+%F0%9F%91%8B%F0%9F%8F%BB;Junior+Software+Engineer+💻)](https://git.io/typing-svg)
 
 </div>
 	    
-<div align="center">
-	
-<img src ="https://i.pinimg.com/originals/11/96/89/119689d2f8ae50053501afb4190e23f6.gif" width="520" height="300">
-	
+<div align="center">	
+	<img src ="https://i.pinimg.com/originals/11/96/89/119689d2f8ae50053501afb4190e23f6.gif" width="520" height="300">	
 </div>
 
 ---
@@ -15,7 +13,8 @@
 I am a Back-end Developer from Brazil. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 🎓 I’m a Microeletronics’ Technologist.
-- 🌱 I’m currently studying Java with Springboot, besides HTML, CSS, JS and React for Web Development.
+- 🌱 I’m focused on studying Java with Springboot for back-end projects.
+- 💡 I'm currently working for a big three consulting firm.
 - ⚡ Random facts: Passionate for calisthenics, cats, reading and gaming.
 - 😄 Pronouns: She/hers
 
