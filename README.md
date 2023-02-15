@@ -5,7 +5,7 @@
 </div>
 	    
 <div align="center">	
-	<img src = "https://media.licdn.com/dms/image/C4D22AQED6dzxfA6EtA/feedshare-shrink_2048_1536/0/1634030043001?e=2147483647&v=beta&t=f9Gw2YHwbnxqcNaoc2Ydan-Rx5Frf324vfJv_WHJTWE" width=450 height=450>	
+	<img src = "https://media.tenor.com/jSpMEkVzL-sAAAAC/work-working.gif" width=350 height=350>	
 </div>
 
 ---
