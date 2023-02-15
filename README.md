@@ -1,6 +1,6 @@
 <div align="center">
 	
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=300&size=35&duration=2200&pause=1000&color=887BB0&vCenter=true&width=569&height=80&lines=Welcome!+I'm+Paula+Mayumi+%F0%9F%91%8B%F0%9F%8F%BB;Junior+Software+Engineer+💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=300&size=35&duration=2200&pause=1000&color=BEF0CB&vCenter=true&width=569&height=80&lines=Welcome!+I'm+Paula+Mayumi+%F0%9F%91%8B%F0%9F%8F%BB;Junior+Software+Engineer+💻)](https://git.io/typing-svg)
 
 </div>
 	    
