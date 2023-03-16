@@ -5,7 +5,7 @@
 </div>
 	    
 <div align="center">	
-	<img src = "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2021/m02/how-technology-empowers-women-in-stem/_jcr_content/root/hero.coreimg.gif/1639580970719/netacad-camille-stephanie-feature-800x450-thumb-021121-animated-gif-2140879-1-0.gif" width=450 height=250>	
+	<img src = "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2021/m02/how-technology-empowers-women-in-stem/_jcr_content/root/hero.coreimg.gif/1639580970719/netacad-camille-stephanie-feature-800x450-thumb-021121-animated-gif-2140879-1-0.gif" width=530 height=270>	
 </div>
 
 ---
