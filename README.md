@@ -15,7 +15,7 @@ I am a Back-end Developer from Brazil. <img src="https://media.giphy.com/media/W
 - 🎓 I’m a Microeletronics’ Technologist.
 - 🌱 I’m focused on studying Java with Springboot for back-end projects.
 - 💡 I'm currently working for a big three consulting firm.
-- ⚡ Random facts: Passionate for calisthenics, cats, reading and gaming.
+- ⚡ Random facts: Passionate for calisthenics, cats, reading and gaming (very noticeably, I love SV).
 - 😄 Pronouns: She/hers
 
 #### Reach me:
