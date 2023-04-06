@@ -6,12 +6,12 @@
 
 ---
 ### About Me 👩🏻‍💻 
-I am a Back-end Developer from Brazil. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Hello! I am a back-end developer from Brazil. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 🎓 I’m a Microeletronics’ Technologist.
 - 🌱 I’m focused on building a solid back-end portfolio.
 - 💡 I'm currently working for a big three consulting firm.
-- ⚡ Random facts: Passionate for calisthenics, cats, reading and gaming (very noticeably, I love SV).
+- ⚡ Random facts: Passionate for calisthenics, learning foreign languages, cats, reading and gaming (very noticeably, I love SV).
 - 😄 Pronouns: She/hers
 
 ### Badges and Credentials 🔰
