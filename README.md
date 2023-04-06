@@ -31,7 +31,7 @@ I am a Back-end Developer from Brazil. <img src="https://media.giphy.com/media/W
 	
 ---
 
-### :fire: My Stats :
+### My Stats 🔥
 
 <div>
 	
@@ -52,7 +52,7 @@ I am a Back-end Developer from Brazil. <img src="https://media.giphy.com/media/W
 <a href="https://www.duolingo.com/profile/psmayumi" target="_blank"><img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" target="_blank"></a>
 </div>
 
-### 🛠️ Languages and Tools	
+### Languages and Tools 🛠️	
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -73,5 +73,5 @@ I am a Back-end Developer from Brazil. <img src="https://media.giphy.com/media/W
 
 	
 <div align="center">
-	<img src="https://github.com/mayumisiano/mayumisiano/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://github.com/mayumisiano/mayumisiano/blob/output/github-contribution-grid-snake.svg"/>
 </div>
