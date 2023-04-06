@@ -8,8 +8,9 @@
 ### About Me 👩🏻‍💻 
 Hello! I am a back-end developer from Brazil. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 🎓 I’m a Microeletronics’ Technologist.
+- 🎓 I’m a Microeletronics’ Technologist.✨
 - 🌱 I’m focused on building a solid back-end portfolio.
+- ✨ I strongly desire to use my knowledge to teach/help other people in IT.
 - 💡 I'm currently working for a big three consulting firm.
 - ⚡ Random facts: Passionate for calisthenics, learning foreign languages, cats, reading and gaming (very noticeably, I love SV).
 - 😄 Pronouns: She/hers
