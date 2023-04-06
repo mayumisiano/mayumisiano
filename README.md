@@ -1,42 +1,55 @@
 <div align="center">
 	
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=300&size=35&duration=2200&pause=1000&color=5a4f73&vCenter=true&width=569&height=80&lines=Welcome!+I'm+Paula+Mayumi+%F0%9F%91%8B%F0%9F%8F%BB;Junior+Software+Engineer+💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=300&size=35&duration=2200&pause=1000&color=1C315E&vCenter=true&width=600&height=50&lines=Welcome!+I'm+Paula+Mayumi+%F0%9F%91%8B%F0%9F%8F%BB;Junior+Software+Engineer+💻)](https://git.io/typing-svg)
 
 </div>
-	    
-<div align="center">	
-	<img src = "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2021/m02/how-technology-empowers-women-in-stem/_jcr_content/root/hero.coreimg.gif/1639580970719/netacad-camille-stephanie-feature-800x450-thumb-021121-animated-gif-2140879-1-0.gif" width=530 height=270>	
-</div>
+
 
 ---
-### 👩🏻‍💻 About Me :
+### About Me 👩🏻‍💻 
 I am a Back-end Developer from Brazil. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 🎓 I’m a Microeletronics’ Technologist.
-- 🌱 I’m focused on studying Java with Springboot for back-end projects.
+- 🌱 I’m focused on building a solid back-end portfolio.
 - 💡 I'm currently working for a big three consulting firm.
 - ⚡ Random facts: Passionate for calisthenics, cats, reading and gaming (very noticeably, I love SV).
 - 😄 Pronouns: She/hers
 
+### Badges and Credentials 🔰
+
+<div>
+
+<a href="https://www.credly.com/earner/earned/badge/452feca1-6907-4e6b-a1e3-5ac0bcd1f71a"><img src="https://images.credly.com/size/680x680/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" width=120 height=120/>
+</a>
+<a href="https://www.credly.com/earner/earned/badge/8b0207ec-61ac-4ecc-96e4-79fd5505803d
+"><img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width=120 height=120/>
+</a>
+<a href="https://www.credly.com/earner/earned/badge/877d37a1-c28a-4c4f-ab10-2a40efaba7f5"><img src="https://images.credly.com/size/680x680/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png" width=120 height=120/>
+</a>
+
+<div>
+	
+---
+
+### :fire: My Stats :
+
+<div>
+	
+[![GitHub Streak](https://streak-stats.demolab.com?user=mayumisiano&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+
+![Mayumi GitHub stats](https://github-readme-stats.vercel.app/api?username=mayumisiano&show_icons=true&theme=dracula)
+	
+<a href="https://app.daily.dev/mayumisiano"><img src="https://api.daily.dev/devcards/3bb2155ffc4f48708c9df09af963c765.png?r=liq" width="250" alt="Mayumi's Dev Card"/></a>
+
+</div>
+	
 #### Reach me:
 	
 <div>
 <a href="https://www.linkedin.com/in/paulamsiano/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://www.freecodecamp.org/mayumi" target="_blank"><img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" target="_blank"></a>
-</div>
-
----
-
-### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=mayumisiano&theme=dracula&hide_border=true)](https://git.io/streak-stats)
-
-![Mayumi GitHub stats](https://github-readme-stats.vercel.app/api?username=mayumisiano&show_icons=true&theme=dracula)
-
-
-### 🎴 My DevCard
-
-<div>
-<a href="https://app.daily.dev/mayumisiano"><img src="https://api.daily.dev/devcards/3bb2155ffc4f48708c9df09af963c765.png?r=liq" width="250" alt="Mayumi's Dev Card"/></a>
+<a href="https://www.freecodecamp.org/mayumi" target="_blank"><img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" target="_blank"></a>	
+<a href="https://dev.to/mayumi" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank"></a>
+<a href="https://www.duolingo.com/profile/psmayumi" target="_blank"><img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" target="_blank"></a>
 </div>
 
 ### 🛠️ Languages and Tools	
