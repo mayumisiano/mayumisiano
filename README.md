@@ -19,12 +19,12 @@ Hello! I am a back-end developer from Brazil. <img src="https://media.giphy.com/
 
 <div>
 
-<a href="https://www.credly.com/earner/earned/badge/452feca1-6907-4e6b-a1e3-5ac0bcd1f71a"><img src="https://images.credly.com/size/680x680/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" width=120 height=120/>
+<a href="https://www.credly.com/badges/8b0207ec-61ac-4ecc-96e4-79fd5505803d/public_url"><img src="https://images.credly.com/size/680x680/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" width=120 height=120/>
 </a>
-<a href="https://www.credly.com/earner/earned/badge/8b0207ec-61ac-4ecc-96e4-79fd5505803d
+<a href="https://www.credly.com/badges/452feca1-6907-4e6b-a1e3-5ac0bcd1f71a/public_url
 "><img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width=120 height=120/>
 </a>
-<a href="https://www.credly.com/earner/earned/badge/877d37a1-c28a-4c4f-ab10-2a40efaba7f5"><img src="https://images.credly.com/size/680x680/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png" width=120 height=120/>
+<a href="https://www.credly.com/badges/877d37a1-c28a-4c4f-ab10-2a40efaba7f5/public_url"><img src="https://images.credly.com/size/680x680/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png" width=120 height=120/>
 </a>
 
 <div>
