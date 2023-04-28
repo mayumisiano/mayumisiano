@@ -1,10 +1,11 @@
-<div align="center">
+# Welcome 👋🏻
+
+<!-- <div align="center">
 	
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=300&size=35&duration=2200&pause=1000&color=8EA7E9&vCenter=true&width=600&height=50&lines=Welcome!+I'm+Paula+Mayumi+%F0%9F%91%8B%F0%9F%8F%BB;Junior+Software+Engineer+💻)](https://git.io/typing-svg)
 
-</div>
+</div> -->
 
----
 ### About Me 👩🏻‍💻 
 Hello! I am a back-end developer from Brazil. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
