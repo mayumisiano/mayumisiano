@@ -27,6 +27,8 @@ Hello! I am a back-end developer from Brazil. <img src="https://media.giphy.com/
 </a>
 <a href="https://www.credly.com/badges/877d37a1-c28a-4c4f-ab10-2a40efaba7f5/public_url"><img src="https://images.credly.com/size/680x680/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png" width=120 height=120/>
 </a>
+<a href="https://www.credly.com/badges/d52f7bb9-ad59-423e-97b6-72560568b0c5"><img src="https://images.credly.com/size/680x680/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" width=120 height=120/>
+</a>
 
 <div>
 	
