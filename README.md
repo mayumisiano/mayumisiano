@@ -7,7 +7,7 @@
 </div> -->
 
 ### About Me 👩🏻‍💻 
-Hello! I am a back-end developer from Brazil. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Hello! I am a software developer from Brazil. Some curiosities about me:
 
 - 🎓 I’m a Microeletronics’ Technologist.
 - 🌱 I’m focused on building a solid back-end portfolio.
