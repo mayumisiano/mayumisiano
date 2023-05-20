@@ -6,7 +6,7 @@
 
 </div> -->
 
-### I'm Paula 👩🏻‍💻 
+## About 👩🏻‍💻 
 Hello! I am a software developer from Brazil. Some curiosities about me:
 
 - 🎓 I’m a Microeletronics’ Technologist.
