@@ -1,4 +1,4 @@
-# Welcome!
+# 👋🏻 Welcome!
 
 <!-- <div align="center">
 	
@@ -10,7 +10,6 @@
 Hello! I am a software developer from Brazil. Some curiosities about me:
 
 - 🎓 I’m a Microeletronics’ Technologist.
-- 🌱 I’m focused on building a solid back-end portfolio.
 - ✨ I strongly desire to use my knowledge to teach/help other people in IT.
 - 💡 I'm currently working for a big three consulting firm.
 - ⚡ Random facts: Passionate for calisthenics, learning foreign languages, cats, reading and gaming.
