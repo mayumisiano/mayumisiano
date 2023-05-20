@@ -7,12 +7,12 @@
 </div> -->
 
 ## About 👩🏻‍💻 
-Hello! I am a software developer from Brazil. Some curiosities about me:
+Hello! I am a software developer from Brazil. Some random facts about me:
 
 - 🎓 I’m a Microeletronics’ Technologist.
 - ✨ I strongly desire to use my knowledge to teach/help other people in IT.
 - 💡 I'm currently working for a big three consulting firm.
-- ⚡ Random facts: Passionate for calisthenics, learning foreign languages, cats, reading and gaming.
+- ⚡ Passionate for calisthenics, learning foreign languages, cats, reading and gaming.
 - 😄 Pronouns: She/hers
 
 ### Badges and Credentials 🔰
