@@ -7,7 +7,7 @@
 </div> -->
 
 ## About 👩🏻‍💻 
-Hello! I am a software developer from Brazil. Some random facts about me:
+Hello! I am a software developer from Brazil. More about me:
 
 - 🎓 I’m a Microeletronics’ Technologist.
 - ✨ I strongly desire to use my knowledge to teach/help other people in IT.
