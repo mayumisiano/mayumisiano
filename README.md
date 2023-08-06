@@ -15,7 +15,7 @@ Hello! I am a software developer from Brazil. More about me:
 - ⚡ Passionate for calisthenics, learning foreign languages, cats, reading and gaming.
 - 😄 Pronouns: She/hers
 
-### Badges and Credentials 🔰
+## Badges and Credentials 🔰
 
 <div>
 
@@ -40,7 +40,7 @@ Hello! I am a software developer from Brazil. More about me:
 	
 ---
 	
-### Technical Skills 🛠️	
+## Technical Skills 🛠️	
 <div>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" title="Java" alt="Java"/>&nbsp;
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="React" alt="React"/>&nbsp;
