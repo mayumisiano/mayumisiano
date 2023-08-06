@@ -19,6 +19,8 @@ Hello! I am a software developer from Brazil. More about me:
 
 <div>
 
+<a href="https://www.credly.com/earner/earned/badge/86e7bb21-9176-44b1-bb44-3750647dc605"><img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width=120 height=120/>
+</a>
 <a href="https://www.credly.com/badges/8b0207ec-61ac-4ecc-96e4-79fd5505803d/public_url"><img src="https://images.credly.com/size/680x680/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" width=120 height=120/>
 </a>
 <a href="https://www.credly.com/badges/452feca1-6907-4e6b-a1e3-5ac0bcd1f71a/public_url
