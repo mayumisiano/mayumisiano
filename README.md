@@ -1,5 +1,6 @@
 # 👋🏻 Welcome!
 
+
 <!-- <div align="center">
 	
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=300&size=35&duration=2200&pause=1000&color=8EA7E9&vCenter=true&width=600&height=50&lines=Welcome!+I'm+Paula+Mayumi+%F0%9F%91%8B%F0%9F%8F%BB;Junior+Software+Engineer+💻)](https://git.io/typing-svg)
@@ -9,11 +10,15 @@
 ## About 👩🏻‍💻 
 Hello! I am a software engineer from Brazil. More about me:
 
-- 🎓 I’m a Microeletronics’ Technologist.
-- ✨ I strongly desire to use my knowledge to teach/help other people in IT.
-- 💡 I'm currently working for a big three consulting firm.
-- ⚡ Passionate for calisthenics, learning foreign languages, cats, reading and gaming.
-- 😄 Pronouns: She/hers
+<img src="https://cdn.dribbble.com/userupload/3078394/file/original-b8f254c437ddaef80a709150d3d70ebf.png?resize=1504x1128" align="right" width=300 height=300/>
+
+<p align="left"> 
+	- 🎓 I’m a Microeletronics’ Technologist. <br>
+	- ✨ I strongly desire to use my knowledge to teach/help other people. <br>
+	- 💡 I'm currently working for a big three consulting firm. <br>
+	- ⚡ Passionate for calisthenics, cats, reading and gaming. <br>
+	- 😄 Pronouns: She/hers
+</p>
 
 ## Badges and Credentials 🔰
 
