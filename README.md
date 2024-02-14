@@ -13,7 +13,7 @@ Hello! I am a software engineer from Brazil. More about me:
 <!-- <img src="https://cdn.dribbble.com/userupload/3078394/file/original-b8f254c437ddaef80a709150d3d70ebf.png?resize=1504x1128" align="right" width=300 height=300/> -->
 
 <p align="left"> 
-	🎓 I’m a Microeletronics’ Technologist. <br>
+	🎓 I hold an academic degree on Microeletronics. <br>
 	✨ I strongly desire to use my knowledge to teach/help other people. <br>
 	💡 I'm currently working for a big three consulting firm. <br>
 	⚡ Passionate for calisthenics, cats, reading and gaming. <br>
