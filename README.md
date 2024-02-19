@@ -14,7 +14,6 @@ Hello! I am a software engineer from Brazil. More about me:
 
 <p align="left"> 
 	🎓 I hold an academic degree on Microeletronics. <br>
-	✨ I strongly desire to use my knowledge to teach/help other people. <br>
 	💡 I'm currently working for a big three consulting firm. <br>
 	⚡ Passionate for calisthenics, cats, reading and gaming. <br>
 	😄 Pronouns: She/hers
