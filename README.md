@@ -1,6 +1,5 @@
 # 👋🏻 Welcome!
 
-
 <!-- <div align="center">
 	
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=300&size=35&duration=2200&pause=1000&color=8EA7E9&vCenter=true&width=600&height=50&lines=Welcome!+I'm+Paula+Mayumi+%F0%9F%91%8B%F0%9F%8F%BB;Junior+Software+Engineer+💻)](https://git.io/typing-svg)
@@ -65,7 +64,7 @@ Hello! I am a software engineer from Brazil. More about me:
 
 ![Mayumi GitHub stats](https://github-readme-stats.vercel.app/api?username=mayumisiano&show_icons=true&theme=dracula)
 	
-<a href="https://app.daily.dev/mayumisiano"><img src="https://api.daily.dev/devcards/3bb2155ffc4f48708c9df09af963c765.png?r=liq" width="250" alt="Mayumi's Dev Card"/></a>
+<a href="https://app.daily.dev/mayumisiano"><img src="https://api.daily.dev/devcards/v2/u6IqB4pHl.png?type=default&r=vog" width="356" alt="Mayumi's Dev Card"/></a>
 
 </div>
 	
