@@ -22,18 +22,18 @@ Hello! I am a software engineer from Brazil. More about me:
 ## Badges and Credentials 🔰
 
 <div>
-<a href="https://www.credential.net/b0ed051a-eaf6-41ee-8446-a866821f4e03#gs.4h6hbq"><img src="https://arki1.com/wp-content/uploads/2022/02/certificate-cloud-digital-leader-google-cloud.png" width=100 height=100/>	
+<a href="https://www.credential.net/b0ed051a-eaf6-41ee-8446-a866821f4e03#gs.4h6hbq"><img src="https://arki1.com/wp-content/uploads/2022/02/certificate-cloud-digital-leader-google-cloud.png" width=120 height=120/>	
 </a>
-<a href="https://www.credly.com/earner/earned/badge/86e7bb21-9176-44b1-bb44-3750647dc605"><img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width=110 height=110/>
+<a href="https://www.credly.com/earner/earned/badge/86e7bb21-9176-44b1-bb44-3750647dc605"><img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width=120 height=120/>
 </a>
-<a href="https://www.credly.com/badges/8b0207ec-61ac-4ecc-96e4-79fd5505803d/public_url"><img src="https://images.credly.com/size/680x680/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" width=110 height=110/>
+<a href="https://www.credly.com/badges/8b0207ec-61ac-4ecc-96e4-79fd5505803d/public_url"><img src="https://images.credly.com/size/680x680/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" width=120 height=120/>
 </a>
 <a href="https://www.credly.com/badges/452feca1-6907-4e6b-a1e3-5ac0bcd1f71a/public_url
-"><img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width=110 height=110/>
+"><img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width=120 height=120/>
 </a>
-<a href="https://www.credly.com/badges/877d37a1-c28a-4c4f-ab10-2a40efaba7f5/public_url"><img src="https://images.credly.com/size/680x680/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png" width=110 height=110/>
+<a href="https://www.credly.com/badges/877d37a1-c28a-4c4f-ab10-2a40efaba7f5/public_url"><img src="https://images.credly.com/size/680x680/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png" width=120 height=120/>
 </a>
-<a href="https://www.credly.com/badges/d52f7bb9-ad59-423e-97b6-72560568b0c5"><img src="https://images.credly.com/size/680x680/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" width=110 height=110/>
+<a href="https://www.credly.com/badges/d52f7bb9-ad59-423e-97b6-72560568b0c5"><img src="https://images.credly.com/size/680x680/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" width=120 height=120/>
 </a>
 
 <div>
