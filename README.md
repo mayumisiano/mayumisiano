@@ -6,8 +6,7 @@
 
 </div> -->
 
-## About 👩🏻‍💻 
-Hello! I am a software engineer from Brazil. More about me:
+Hello, welcome to my profile! I am a software engineer from Brazil. More about me:
 
 <!-- <img src="https://cdn.dribbble.com/userupload/3078394/file/original-b8f254c437ddaef80a709150d3d70ebf.png?resize=1504x1128" align="right" width=300 height=300/> -->
 
