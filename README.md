@@ -10,7 +10,7 @@ Welcome to my profile! I am a software engineer from Brazil. I am versed in back
 
 ![Mayumi's Stats](https://github-readme-stats.vercel.app/api?username=mayumisiano&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-## Technical Skills and Credentials 🔰
+## Badges Credentials 🔰
 
 <div>
 <a href="https://www.credential.net/b0ed051a-eaf6-41ee-8446-a866821f4e03#gs.4h6hbq"><img src="https://arki1.com/wp-content/uploads/2022/02/certificate-cloud-digital-leader-google-cloud.png" width=90 height=90/></a>
