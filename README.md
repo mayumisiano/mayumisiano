@@ -3,7 +3,7 @@ Welcome to my profile! I am a software engineer from Brazil. I am versed in back
 
 ## Stats 🔥 
 
-![Mayumi's Stats](https://github-readme-stats.vercel.app/api?username=mayumisiano&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Mayumi's Stats](https://github-readme-stats.vercel.app/api?username=mayumisiano&theme=buefy&show_icons=true&hide_border=true&count_private=true)
 
 ## Technical Skills 🛠️
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,spring,javascript,nodejs,nestjs,express,python,cs,dotnet,postgresql,mongodb,mysql,git,gitlab,aws,gcp,docker"/></a>
@@ -16,7 +16,7 @@ Welcome to my profile! I am a software engineer from Brazil. I am versed in back
 
 ### Personal Projects
 <a  href="https://github.com/mayumisiano/microeletronica">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mayumisiano&repo=microeletronica&show_icons=true&line_height=20&title_color=111&text_color=111&icon_color=111&bg_color=fff"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mayumisiano&repo=microeletronica&show_icons=true&line_height=35&title_color=111&text_color=111&icon_color=111&bg_color=ffff"/>
 </a>
 
 #### Get in Touch 📬
