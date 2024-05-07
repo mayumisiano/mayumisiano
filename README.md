@@ -6,7 +6,7 @@ Welcome to my profile! I am a software engineer from Brazil. I am versed in back
 ![Mayumi's Stats](https://github-readme-stats.vercel.app/api?username=mayumisiano&theme=buefy&show_icons=true&hide_border=true&count_private=true)
 
 ## Technical Skills 🛠️
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,spring,javascript,nodejs,nestjs,express,python,cs,dotnet,postgresql,mongodb,mysql,git,gitlab,aws,gcp,docker"/></a>
+[![My Skills](https://skillicons.dev/icons?i=java,spring,javascript,nodejs,nestjs,express,python,cs,dotnet,postgresql,mongodb,mysql,git,gitlab,aws,gcp,docker&theme=light)](https://skillicons.dev)
 
 ### Badges and Credentials 🔰
 
