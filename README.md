@@ -20,10 +20,3 @@ Welcome to my profile! I am a software engineer from Brazil. I am versed in back
 <a  href="https://github.com/mayumisiano/microeletronica">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mayumisiano&repo=microeletronica&show_icons=true&line_height=35&title_color=111&text_color=111&icon_color=111&bg_color=ffff"/>
 </a>
-
-#### Get in Touch 📬
-	
-<div>
- <a href="https://www.linkedin.com/in/paulamsiano/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" width="50" height="50"></a>
-<a href="https://dev.to/mayumi" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/DevTo-Dark.svg" width="50" height="50" target="_blank"></a>
-</div>
