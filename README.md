@@ -3,7 +3,7 @@ Welcome to my profile! I am a software engineer from Brazil. I am versed in back
 
 ## Stats 🔥 
 
-![Mayumi's Stats](https://github-readme-stats.vercel.app/api?username=mayumisiano&theme=dark&show_icons=true&hide_border=true&count_private=true) <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayumisiano&theme=dark&hide_border=true" alt="mayumisiano's GitHub Stats" />
+![Mayumi's Stats](https://github-readme-stats.vercel.app/api?username=mayumisiano&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 
 
