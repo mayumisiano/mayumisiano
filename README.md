@@ -3,7 +3,7 @@ Welcome to my profile! I am a software engineer from Brazil. I am versed in back
 
 ## #30NitesOfCode
 
-<img align="center" src="https://www.codedex.io/images/code-nights/dragon.gif" width=100 height=100/>
+<img align="center" src="https://www.codedex.io/images/code-nights/baby-happy-dragon.gif" width=100 height=100/>
 
 ## Stats 🔥 
 
