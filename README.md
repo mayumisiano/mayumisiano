@@ -1,10 +1,6 @@
 # Hello!
 Welcome to my profile! I am a software engineer from Brazil. I am versed in backend development with cloud and devops engineering.
 
-## #30NitesOfCode
-
-<img align="center" src="https://www.codedex.io/images/code-nights/baby-happy-dragon.gif" width=100 height=100/>
-
 ## Stats 🔥 
 
 ![Mayumi's Stats](https://github-readme-stats.vercel.app/api?username=mayumisiano&theme=dark&show_icons=true&hide_border=true&count_private=true)
