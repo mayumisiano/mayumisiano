@@ -1,5 +1,6 @@
-# Hello!
-Welcome to my profile! I am a software engineer from Brazil. I am versed in backend development with cloud and devops engineering.
+![Welcome](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome&textBg=false)
+
+Hi! I am a software engineer from Brazil. I am versed in backend development with cloud and devops engineering.
 
 ## Stats 🔥 
 
