@@ -1,11 +1,6 @@
 ![Welcome](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome&textBg=false)
 
-Hi! I am a software engineer from Brazil. I am versed in backend development with cloud and devops engineering.
-
-## Stats 🔥 
-
-![Mayumi's Stats](https://github-readme-stats.vercel.app/api?username=mayumisiano&theme=dark&show_icons=true&hide_border=true&count_private=true)
-
+Hi! I am a software engineer versed in backend development.
 
 
 ## Technical Skills 🛠️
