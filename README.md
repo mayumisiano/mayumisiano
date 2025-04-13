@@ -1,5 +1,3 @@
-![Welcome](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome&textBg=false)
-
 Hi! I am a software engineer versed in backend development.
 
 
