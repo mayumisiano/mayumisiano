@@ -1,16 +1,82 @@
-Hi! I am a software engineer versed in backend development.
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6c5ce7,50:a29bfe,100:74b9ff&height=200&section=header&text=Mayumi%20Siano&fontSize=48&fontColor=ffffff&fontAlignY=40&animation=twinkling" width="100%"/>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayumisiano)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mayumisiano)
+
+</div>
+
+<div align="center">
+
+### Badges
+
+<a href="https://www.credential.net/b0ed051a-eaf6-41ee-8446-a866821f4e03#gs.4h6hbq"><img src="https://arki1.com/wp-content/uploads/2022/02/certificate-cloud-digital-leader-google-cloud.png" width="75"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.credly.com/earner/earned/badge/86e7bb21-9176-44b1-bb44-3750647dc605"><img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="75"/></a>
+
+</div>
 
 
-## Technical Skills 🛠️
-[![My Skills](https://skillicons.dev/icons?i=java,spring,javascript,nodejs,nestjs,express,python,cs,dotnet,postgresql,mongodb,mysql,git,gitlab,aws,gcp,docker&theme=dark)](https://skillicons.dev)
+<div align="center">
 
-### Badges and Credentials 🔰
+### Contributions
 
-<div>
-<a href="https://www.credential.net/b0ed051a-eaf6-41ee-8446-a866821f4e03#gs.4h6hbq"><img src="https://arki1.com/wp-content/uploads/2022/02/certificate-cloud-digital-leader-google-cloud.png" width=90 height=90/></a>
-<a href="https://www.credly.com/earner/earned/badge/86e7bb21-9176-44b1-bb44-3750647dc605"><img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width=90 height=90/></a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mayumisiano&theme=github_dark" width="700"/>
+
+<br/>
+
+<table>
+<tr>
+<td width="400">
+<h3 align="center"><a href="https://github.com/mckinsey/agents-at-scale-ark">agents-at-scale-ark</a></h3>
+<p align="center"><sub>Open-source multi-agent orchestration platform by McKinsey.<br/>Contributor — Helm charts, agent bundling, deployment workflows.</sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/mckinsey/agents-at-scale-ark?style=flat-square&color=30363d&labelColor=0d1117" />
+</p>
+</td>
+<td width="400">
+<h3 align="center"><a href="https://github.com/mckinsey/agents-at-scale-marketplace">agents-at-scale-marketplace</a></h3>
+<p align="center"><sub>Marketplace of Helm charts and services for the ARK ecosystem.<br/>Contributor — agents, services, DevSpace configs.</sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/mckinsey/agents-at-scale-marketplace?style=flat-square&color=30363d&labelColor=0d1117" />
+</p>
+</td>
+</tr>
+</table>
+
+</div>
+
+
+<div align="center">
 
 ### Personal Projects
-<a  href="https://github.com/mayumisiano/microeletronica">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mayumisiano&repo=microeletronica&show_icons=true&line_height=35&title_color=e6e7e8&text_color=e6e7e8&icon_color=e6e7e8&bg_color=212224"/>
-</a>
+
+<table>
+<tr>
+<td width="400">
+<h3 align="center"><a href="https://github.com/mayumisiano/microeletronica">microeletronica</a></h3>
+<p align="center"><sub>Time series analysis of Brazil's microelectronics industry (2006–2019).<br/>Interactive dashboard with Streamlit + Plotly.</sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+</p>
+</td>
+</tr>
+</table>
+
+</div>
+
+
+<br/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:74b9ff,50:a29bfe,100:6c5ce7&height=150&section=footer" width="100%"/>
