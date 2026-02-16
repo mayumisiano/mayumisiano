@@ -22,13 +22,13 @@
 
 ### Contributions
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mayumisiano&theme=github_dark" width="700"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mayumisiano&theme=github_dark" width="580"/>
 
-<br/>
+<br/><br/>
 
 <table>
 <tr>
-<td width="400">
+<td width="290">
 <h3 align="center"><a href="https://github.com/mckinsey/agents-at-scale-ark">agents-at-scale-ark</a></h3>
 <p align="center"><sub>Open-source multi-agent orchestration platform by McKinsey.<br/>Contributor — Helm charts, agent bundling, deployment workflows.</sub></p>
 <p align="center">
@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/github/stars/mckinsey/agents-at-scale-ark?style=flat-square&color=30363d&labelColor=0d1117" />
 </p>
 </td>
-<td width="400">
+<td width="290">
 <h3 align="center"><a href="https://github.com/mckinsey/agents-at-scale-marketplace">agents-at-scale-marketplace</a></h3>
 <p align="center"><sub>Marketplace of Helm charts and services for the ARK ecosystem.<br/>Contributor — agents, services, DevSpace configs.</sub></p>
 <p align="center">
@@ -60,7 +60,7 @@
 
 <table>
 <tr>
-<td width="400">
+<td width="580">
 <h3 align="center"><a href="https://github.com/mayumisiano/microeletronica">microeletronica</a></h3>
 <p align="center"><sub>Time series analysis of Brazil's microelectronics industry (2006–2019).<br/>Interactive dashboard with Streamlit + Plotly.</sub></p>
 <p align="center">
