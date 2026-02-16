@@ -9,22 +9,27 @@
 
 <div align="center">
 
-## Badges
+<h2>Badges</h2>
 
-<a href="https://www.credential.net/b0ed051a-eaf6-41ee-8446-a866821f4e03#gs.4h6hbq"><img src="https://arki1.com/wp-content/uploads/2022/02/certificate-cloud-digital-leader-google-cloud.png" width="75"/></a>
+
+<a href="https://www.credly.com/badges/2024fa82-8eb3-452d-bb22-eee59023ad81/public_url"><img src="https://arki1.com/wp-content/uploads/2022/02/certificate-cloud-digital-leader-google-cloud.png" width="75"/></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.credly.com/earner/earned/badge/86e7bb21-9176-44b1-bb44-3750647dc605"><img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="75"/></a>
-
+<a href="https://www.credly.com/earner/earned/badge/5e3039bc-8aa7-4d16-b624-3dc37e695815"><img src="https://images.credly.com/images/7bf905f6-2dac-43b2-9160-e50fbf9da3c4/blob" width ="75"/></a>
 </div>
 
 
 <div align="center">
 
-## Contributions
+<h2>Contributions</h2>
+<sub>Activity overview and open-source work</sub>
+<br/><br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mayumisiano&theme=github_dark" width="580"/>
 
-<br/><br/>
+<br/>
+
+<h3>Open Source Contributions</h3>
 
 <table>
 <tr>
@@ -56,11 +61,13 @@
 
 <div align="center">
 
-## Personal Projects
+<h2>Personal Projects</h2>
+<sub>Side projects and experiments</sub>
+<br/><br/>
 
 <table>
 <tr>
-<td width="580">
+<td width="400">
 <h3 align="center"><a href="https://github.com/mayumisiano/microeletronica">microeletronica</a></h3>
 <p align="center"><sub>Time series analysis of Brazil's microelectronics industry (2006–2019).<br/>Interactive dashboard with Streamlit + Plotly.</sub></p>
 <p align="center">
