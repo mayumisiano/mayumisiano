@@ -9,7 +9,7 @@
 
 <div align="center">
 
-### Badges
+## Badges
 
 <a href="https://www.credential.net/b0ed051a-eaf6-41ee-8446-a866821f4e03#gs.4h6hbq"><img src="https://arki1.com/wp-content/uploads/2022/02/certificate-cloud-digital-leader-google-cloud.png" width="75"/></a>
 &nbsp;&nbsp;&nbsp;
@@ -20,7 +20,7 @@
 
 <div align="center">
 
-### Contributions
+## Contributions
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mayumisiano&theme=github_dark" width="580"/>
 
@@ -56,7 +56,7 @@
 
 <div align="center">
 
-### Personal Projects
+## Personal Projects
 
 <table>
 <tr>
