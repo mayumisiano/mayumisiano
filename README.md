@@ -80,6 +80,13 @@
 </tr>
 </table>
 
+<h3>Resume</h3>
+
+<a href="https://github.com/mayumisiano/resume"><b>resume</b></a> — Resume in multiple versions tailored by role focus (backend, AI) in English and Portuguese
+<br/>
+<img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
+<img src="https://img.shields.io/badge/Makefile-064F8C?style=flat-square&logo=gnu&logoColor=white" />
+
 </div>
 
 
