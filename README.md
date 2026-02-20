@@ -80,12 +80,18 @@
 </tr>
 </table>
 
-<h3>Resume</h3>
-
-<a href="https://github.com/mayumisiano/resume"><b>resume</b></a> — Resume in multiple versions tailored by role focus (backend, AI) in English and Portuguese
-<br/>
-<img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
-<img src="https://img.shields.io/badge/Makefile-064F8C?style=flat-square&logo=gnu&logoColor=white" />
+<table>
+<tr>
+<td width="400">
+<h3 align="center"><a href="https://github.com/mayumisiano/resume">resume</a></h3>
+<p align="center"><sub>My resume in multiple versions tailored by role focus (fullstack, backend, AI).<br/>Available in English and Portuguese.</sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
+  <img src="https://img.shields.io/badge/Makefile-064F8C?style=flat-square&logo=gnu&logoColor=white" />
+</p>
+</td>
+</tr>
+</table>
 
 </div>
 
