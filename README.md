@@ -1,24 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6c5ce7,50:a29bfe,100:74b9ff&height=200&section=header&text=Mayumi%20Siano&fontSize=48&fontColor=ffffff&fontAlignY=40&animation=twinkling" width="100%"/>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayumisiano)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mayumisiano)
-
-</div>
-
-<div align="center">
-
-<h2>Badges</h2>
-
-
-<a href="https://www.credly.com/badges/2024fa82-8eb3-452d-bb22-eee59023ad81/public_url"><img src="https://arki1.com/wp-content/uploads/2022/02/certificate-cloud-digital-leader-google-cloud.png" width="75"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.credly.com/earner/earned/badge/86e7bb21-9176-44b1-bb44-3750647dc605"><img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="75"/></a>
-<a href="https://www.credly.com/earner/earned/badge/5e3039bc-8aa7-4d16-b624-3dc37e695815"><img src="https://images.credly.com/images/7bf905f6-2dac-43b2-9160-e50fbf9da3c4/blob" width ="75"/></a>
-</div>
-
-
 <div align="center">
 
 <h2>Contributions</h2>
@@ -99,4 +78,10 @@
 <br/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:74b9ff,50:a29bfe,100:6c5ce7&height=150&section=footer" width="100%"/>
+
+<div align="center">
+  
+<h3>Contacts</h3>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayumisiano)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mayumisiano)
